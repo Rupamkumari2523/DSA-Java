@@ -1,1 +1,1 @@
-# DSA-LeetCode-Solutions
+# DSA-Java
